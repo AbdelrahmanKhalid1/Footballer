@@ -1,0 +1,4 @@
+#Sat Aug 29 15:30:33 EET 2020
+base.0=D\:\\Android\\Android Studio Projects\\Footballer\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

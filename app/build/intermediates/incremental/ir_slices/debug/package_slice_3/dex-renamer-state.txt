@@ -1,0 +1,4 @@
+#Thu Jul 25 20:44:54 EET 2019
+base.0=/home/abdelrahman/MyApplication/app/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex
